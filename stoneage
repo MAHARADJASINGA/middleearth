@@ -1,4 +1,96 @@
 #EXTM3U
+#EXTINF:-1   tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg" ,CCTV 5
+http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2019/12/16/1576480496280_505.jpg" ,CCTV 5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY"  tvg-logo="http://masmiri.50webs.com/Supersport11.png" tvg-url="" group-title="Malaysia",Astro SuperSport
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY"  tvg-logo="http://masmiri.50webs.com/Supersport12.png" tvg-url="" group-title="Malaysia",Astro SuperSport 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY"  tvg-logo="http://masmiri.50webs.com/Supersport13.png" tvg-url="" group-title="Malaysia",Astro SuperSport 3
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY"  tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Malaysia",Astro SuperSport 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-country="MY"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="Malaysia",Astro Arena
+#http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/154
+
+#EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-country="MY"  tvg-logo="https://1.bp.blogspot.com/-Va-Kc5ie8Ug/XKx4_rBYDgI/AAAAAAAAnqk/y40FC6Qn4QgcAKblbW5wHjZHYgArkz46ACLcBGAs/s1600/rtm-hd-sports-channel-tv-logo.png" tvg-url="" group-title="Malaysia",RTM Sports
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTgRdHoFxazzoHwu46fdNBMW9z1rLM8JzUfc3Tg2JVsp5UqvTlUIKvLvemutXN6za__M&usqp=CAU" group-title="SPORT",OLYMPIADE LIVE1
+http://91.126.141.13:1935/live/41/1800-def.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 1
+https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 2
+https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 3
+https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 4
+https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 5
+https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 6
+https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 7
+https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 8
+https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 9
+https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+
+#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://i.ibb.co/XsMFXC5/dvf.png" group-title="SPORTS",OLYMPIC 10
+https://link.zozotv.xyz:443/Freemium1/unlimited99/327
+
+#EXTINF:-1   tvg-logo="https://img.sport-tv-guide.live/images/tv-station-qa-bein-sports-premium-1-761.png" group-title="Sports ID",BeIN Sport1 Premium
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN Sport 2 Premium
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-
+logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN Toyko 1
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-
+logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN Tokyo 3
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-
+logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN Tokyo 4
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-
+logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN Tokyo 5
+http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN  Tokyo 6
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-
+logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN Tokyo 7
+http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",BeIN  Tokyo 8
+http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/fvWbDnq/ES.png",ESPN HD
+http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",CNN INDONESIA  
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV NASIONAL",SCTV 2  
